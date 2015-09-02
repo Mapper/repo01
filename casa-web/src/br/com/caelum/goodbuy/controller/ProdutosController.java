@@ -30,8 +30,8 @@ public class ProdutosController {
 		List<String> result = new ArrayList<String>();
 		 result.add("Brasil");
 		 result.add("Portugal");
-		 result.add("Jap�o");
-		 result.add("Canad�");
+		 result.add("Japão");
+		 result.add("Canadá");
 		 result.add("Paraguai");
 		 System.out.println("paises");
 
